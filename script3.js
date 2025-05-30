@@ -1,12 +1,12 @@
 // Placeholder for frame data. Make sure these paths are correct and images exist.
 // For the image to show *inside* the frame, these frame PNGs MUST have transparent cutouts.
 const frameData = [
-    { id: 'frame1', src: 'frames/frame1.png', name: 'Elegant Oval Gold', ratio: '9/16' },
-    { id: 'frame2', src: 'frames/frame2.png', name: 'Floral Gold', ratio: '9/16' },
-    { id: 'frame3', src: 'frames/frame3.png', name: 'Square Gold', ratio: '9/16' },
-    { id: 'frame4', src: 'frames/frame4.png', name: 'Ornate Oval Gold', ratio: '9/16' },
-    { id: 'frame5', src: 'frames/frame5.png', name: 'Elegant Oval Gold1', ratio: '9/16' },
-    { id: 'frame6', src: 'frames/frame6.png', name: 'Floral Gold1', ratio: '9/16' },
+    { id: 'frame1', src: 'frame1.png', name: 'Elegant Oval Gold', ratio: '9/16' },
+    { id: 'frame2', src: 'frame2.png', name: 'Floral Gold', ratio: '9/16' },
+    { id: 'frame3', src: 'frame3.png', name: 'Square Gold', ratio: '9/16' },
+    { id: 'frame4', src: 'frame4.png', name: 'Ornate Oval Gold', ratio: '9/16' },
+    { id: 'frame5', src: 'frame5.png', name: 'Elegant Oval Gold1', ratio: '9/16' },
+    { id: 'frame6', src: 'frame6.png', name: 'Floral Gold1', ratio: '9/16' },
     { id: 'frame7', src: 'frames/frame7.png', name: 'Square Gold1', ratio: '9/16' },
     { id: 'frame8', src: 'frames/frame8.png', name: 'Ornate Oval Gold1', ratio: '9/16' },
     { id: 'frame9', src: 'frames/frame9.png', name: 'Elegant Oval Gold2', ratio: '9/16' },
